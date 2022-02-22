@@ -23,4 +23,4 @@ Wait For It...
 
 This tool is under developing now. The script can do basic things already, but surely, It can do more!)
 
-From time to time I'll update repo with new features. Any contributors welcome! =)
+From time to time I'll update repo with new features. Any contributors are welcome! =)
