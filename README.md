@@ -12,3 +12,15 @@ Let's imagine you have a huge incident and you are sure that it is an APT case. 
 
 ## Simple Example
 
+```
+>>> from AIRT import main_threat_actors
+>>> main_threat_actors('https://raw.githubusercontent.com/St-elin/AIRT/main/NewIncident.json')
+Wait For It...
+[('APT29', 11), ('OilRig', 11), ('APT28', 11), ('APT39', 10), ('FIN6', 10), ('Operation Wocao', 10), ('Patchwork', 9), ('Sandworm Team', 9), ('menuPass', 8), ('Frankenstein', 8)]
+```
+
+## Spoiler
+
+This tool is under developing now. The script can do basic things already, but surely, It can do more!)
+
+From time to time I'll update repo with new features. Any contributors welcome! =)
